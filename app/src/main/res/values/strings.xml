@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EnviroSense</string>
+    
+    <!-- Navigation -->
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_history">Historia</string>
+    
+    <!-- Dashboard -->
+    <string name="current_location">Aktualna lokalizacja</string>
+    <string name="refresh">Odśwież</string>
+    <string name="save_measurement">Zapisz pomiar</string>
+    <string name="loading">Ładowanie...</string>
+    <string name="error_loading">Błąd ładowania danych</string>
+    <string name="retry">Ponów</string>
+    
+    <!-- Weather -->
+    <string name="weather">Pogoda</string>
+    <string name="temperature">Temperatura</string>
+    <string name="humidity">Wilgotność</string>
+    <string name="wind">Wiatr</string>
+    <string name="pressure">Ciśnienie</string>
+    
+    <!-- Air Quality -->
+    <string name="air_quality">Jakość powietrza</string>
+    <string name="aqi">AQI</string>
+    <string name="aqi_good">Dobra</string>
+    <string name="aqi_fair">Umiarkowana</string>
+    <string name="aqi_moderate">Średnia</string>
+    <string name="aqi_poor">Zła</string>
+    <string name="aqi_very_poor">Bardzo zła</string>
+    
+    <!-- History -->
+    <string name="history_title">Historia pomiarów</string>
+    <string name="no_measurements">Brak zapisanych pomiarów</string>
+    <string name="delete_all">Usuń wszystkie</string>
+    <string name="delete_confirm">Czy na pewno chcesz usunąć wszystkie pomiary?</string>
+    <string name="yes">Tak</string>
+    <string name="no">Nie</string>
+    <string name="cancel">Anuluj</string>
+    
+    <!-- Details -->
+    <string name="measurement_details">Szczegóły pomiaru</string>
+    <string name="share">Udostępnij</string>
+    <string name="delete">Usuń</string>
+    
+    <!-- Permissions -->
+    <string name="location_permission_required">Wymagane uprawnienie do lokalizacji</string>
+    <string name="location_permission_rationale">Aplikacja potrzebuje dostępu do lokalizacji, aby pobierać dane o pogodzie i jakości powietrza dla Twojego miejsca pobytu.</string>
+    <string name="grant_permission">Nadaj uprawnienie</string>
+    
+    <!-- Messages -->
+    <string name="measurement_saved">Pomiar zapisany!</string>
+    <string name="measurement_deleted">Pomiar usunięty</string>
+    <string name="all_measurements_deleted">Wszystkie pomiary usunięte</string>
+</resources>

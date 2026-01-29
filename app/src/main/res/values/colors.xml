@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="primary">#2E7D32</color>
+    <color name="primary_variant">#1B5E20</color>
+    <color name="on_primary">#FFFFFF</color>
+    
+    <!-- Secondary Colors -->
+    <color name="secondary">#00ACC1</color>
+    <color name="secondary_variant">#00838F</color>
+    <color name="on_secondary">#FFFFFF</color>
+    
+    <!-- Background -->
+    <color name="background">#F5F5F5</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="on_background">#1C1B1F</color>
+    <color name="on_surface">#1C1B1F</color>
+    
+    <!-- AQI Colors -->
+    <color name="aqi_good">#4CAF50</color>
+    <color name="aqi_fair">#8BC34A</color>
+    <color name="aqi_moderate">#FFEB3B</color>
+    <color name="aqi_poor">#FF9800</color>
+    <color name="aqi_very_poor">#F44336</color>
+    
+    <!-- Error -->
+    <color name="error">#B00020</color>
+    <color name="on_error">#FFFFFF</color>
+</resources>
