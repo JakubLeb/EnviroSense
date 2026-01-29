@@ -40,7 +40,7 @@ EnviroSense to aplikacja mobilna do monitorowania warunków środowiskowych. Pok
    ```kotlin
    buildConfigField("String", "OPENWEATHER_API_KEY", "\"twoj_klucz\"")
    ```
-   //Na stronie https://openweathermap.org/
+   Na stronie https://openweathermap.org/
 4. Kliknij "Sync Project with Gradle Files"
 5. Podłącz urządzenie lub uruchom emulator
 6. Kliknij "Run"
