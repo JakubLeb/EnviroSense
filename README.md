@@ -4,6 +4,15 @@
 
 EnviroSense to aplikacja mobilna do monitorowania warunków środowiskowych. Pokazuje aktualną pogodę i jakość powietrza na podstawie lokalizacji użytkownika. Umożliwia zapisywanie pomiarów i przeglądanie historii.
 
+## Jak działa aplikacja
+
+1. **Uruchomienie** - aplikacja prosi o uprawnienia do lokalizacji
+2. **Pobranie lokalizacji** - GPS pobiera współrzędne użytkownika
+3. **Pobranie danych** - aplikacja wysyła zapytania do API OpenWeatherMap z współrzędnymi
+4. **Wyświetlenie** - dane pogodowe i jakość powietrza pokazują się na Dashboard
+5. **Zapis** - użytkownik może zapisać pomiar do lokalnej bazy Room
+6. **Historia** - zapisane pomiary można przeglądać i usuwać
+
 ## Użyte sensory i źródła danych
 
 | # | Źródło | Opis |
@@ -39,3 +48,7 @@ EnviroSense to aplikacja mobilna do monitorowania warunków środowiskowych. Pok
 ## Autor
 
 [Jakub Lebiodziński]
+
+## Plik APK
+Plik APK do testów znajduje się w folderze: `app\build\outputs\apk\debug\app-debug.apk`
+!plik APK nie jest widoczyn w widoku Android studio
